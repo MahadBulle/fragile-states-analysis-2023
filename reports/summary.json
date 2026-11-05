@@ -1,0 +1,15 @@
+{
+  "year": 2023,
+  "countries": 179,
+  "indicators": 12,
+  "mean_total": 65.83240223463687,
+  "median_total": 68.19999999999999,
+  "highest_country": "Somalia",
+  "highest_total": 111.89999999999999,
+  "lowest_country": "Norway",
+  "lowest_total": 14.5,
+  "missing_fields": 0,
+  "duplicate_keys": 0,
+  "invalid_indicator_scores": 0,
+  "total_mismatches": 0
+}
